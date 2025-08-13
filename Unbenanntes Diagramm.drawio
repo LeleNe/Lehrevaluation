@@ -17,7 +17,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i5fRMX3bDrgT3CYCGFqA" name="Fragebögen">
-    <mxGraphModel dx="2037" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
         <mxCell id="7l6I9ZnIz1sRPXKififV-1" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 19px;&quot;&gt;Fragebogenübersicht&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="W_2epq7IKHOyBFfJu-2j-3" value="Fragetyp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="W_2epq7IKHOyBFfJu-2j-3" value="Fragebogentyp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="70" height="34" as="geometry" />
         </mxCell>
         <mxCell id="W_2epq7IKHOyBFfJu-2j-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -167,6 +167,15 @@
         </mxCell>
         <mxCell id="W_2epq7IKHOyBFfJu-2j-46" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fragebogen Erstellung | Bearbeitung&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W_2epq7IKHOyBFfJu-2j-47" value="Fragetyp" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W_2epq7IKHOyBFfJu-2j-48" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Fragetypen&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="585" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W_2epq7IKHOyBFfJu-2j-49" value="Versionierung | Sortierung der Fragebögen??" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="115" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
