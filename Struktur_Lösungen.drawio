@@ -57,7 +57,7 @@
         <mxCell id="gyQxUDCXx6N6QoYx4HDR-13" value="Ausfüllen des Fragebogens im Moodle-Kurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="2025" y="280" width="420" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GpqrMQBZT2NMAF-zX8vp-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=4;strokeColor=#EA6B66;shadow=0;dashed=0;shape=mxgraph.ios7.icons.chat;" vertex="1" parent="1">
+        <mxCell id="GpqrMQBZT2NMAF-zX8vp-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=4;strokeColor=#EA6B66;shadow=0;dashed=0;shape=mxgraph.ios7.icons.chat;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="1870" y="270" width="60" height="33" as="geometry" />
         </mxCell>
       </root>
